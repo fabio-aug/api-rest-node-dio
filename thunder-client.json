@@ -1,20 +1,20 @@
 {
     "client": "Thunder Client",
     "collectionName": "api_node_typescript_dio",
-    "dateExported": "2023-01-08T23:15:17.455Z",
+    "dateExported": "2023-01-08T23:35:35.373Z",
     "version": "1.1",
     "folders": [],
     "requests": [
         {
-            "_id": "9f7001de-4219-496e-90d4-0c0672a70833",
-            "colId": "efc979ef-487c-44f5-864c-4376a581e287",
+            "_id": "69598003-34e5-448b-8cb5-d45fdf368de2",
+            "colId": "96428a5c-e294-4053-aeee-f440177ca976",
             "containerId": "",
             "name": "/users/add",
             "url": "http://localhost:44390/users/add",
             "method": "POST",
             "sortNum": 10000,
-            "created": "2023-01-08T22:19:34.988Z",
-            "modified": "2023-01-08T22:35:02.625Z",
+            "created": "2023-01-08T23:16:18.025Z",
+            "modified": "2023-01-08T23:16:18.025Z",
             "headers": [
                 {
                     "name": "Content-Type",
@@ -30,15 +30,15 @@
             "tests": []
         },
         {
-            "_id": "6e36e4e0-a7b1-4c64-8211-13c05fe73bca",
-            "colId": "efc979ef-487c-44f5-864c-4376a581e287",
+            "_id": "b80923d7-0bf2-414b-a769-d549fa7ea20e",
+            "colId": "96428a5c-e294-4053-aeee-f440177ca976",
             "containerId": "",
             "name": "/users/getAll",
             "url": "http://localhost:44390/users/getAll",
             "method": "GET",
             "sortNum": 15000,
-            "created": "2023-01-08T22:27:02.921Z",
-            "modified": "2023-01-08T23:07:46.847Z",
+            "created": "2023-01-08T23:16:18.026Z",
+            "modified": "2023-01-08T23:16:18.026Z",
             "headers": [
                 {
                     "name": "Content-Type",
@@ -49,15 +49,15 @@
             "tests": []
         },
         {
-            "_id": "17cf906e-94c6-4b65-b37a-ad7c55f80624",
-            "colId": "efc979ef-487c-44f5-864c-4376a581e287",
+            "_id": "3f978304-7c57-4150-b4e7-7e2a1ba08b1d",
+            "colId": "96428a5c-e294-4053-aeee-f440177ca976",
             "containerId": "",
             "name": "/users/getById",
             "url": "http://localhost:44390/users/getById?id=10",
             "method": "GET",
             "sortNum": 30000,
-            "created": "2023-01-08T22:29:16.354Z",
-            "modified": "2023-01-08T22:31:15.682Z",
+            "created": "2023-01-08T23:16:18.027Z",
+            "modified": "2023-01-08T23:16:18.027Z",
             "headers": [
                 {
                     "name": "Content-Type",
@@ -74,15 +74,15 @@
             "tests": []
         },
         {
-            "_id": "b484826c-3c65-4440-84e4-4929d4c4b511",
-            "colId": "efc979ef-487c-44f5-864c-4376a581e287",
+            "_id": "d44853f8-3885-4090-bf4e-0727a93782ac",
+            "colId": "96428a5c-e294-4053-aeee-f440177ca976",
             "containerId": "",
             "name": "/users/update",
             "url": "http://localhost:44390/users/update?id=10",
             "method": "PUT",
             "sortNum": 40000,
-            "created": "2023-01-08T23:07:13.077Z",
-            "modified": "2023-01-08T23:11:01.228Z",
+            "created": "2023-01-08T23:16:18.028Z",
+            "modified": "2023-01-08T23:16:18.028Z",
             "headers": [
                 {
                     "name": "Content-Type",
@@ -104,15 +104,15 @@
             "tests": []
         },
         {
-            "_id": "c6ac5fbd-029c-4b73-80c5-1c08c53a790e",
-            "colId": "efc979ef-487c-44f5-864c-4376a581e287",
+            "_id": "f22979fb-33d5-42be-8b62-0cb184e0912b",
+            "colId": "96428a5c-e294-4053-aeee-f440177ca976",
             "containerId": "",
             "name": "/users/delete",
             "url": "http://localhost:44390/users/delete?id=10",
             "method": "DELETE",
             "sortNum": 50000,
-            "created": "2023-01-08T23:12:29.038Z",
-            "modified": "2023-01-08T23:12:57.086Z",
+            "created": "2023-01-08T23:16:18.029Z",
+            "modified": "2023-01-08T23:16:18.029Z",
             "headers": [
                 {
                     "name": "Content-Type",
